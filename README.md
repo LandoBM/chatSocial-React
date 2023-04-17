@@ -1,4 +1,4 @@
-# fuzzy-octo-chainsaw
+# Chat Social - REACT
 
 <img alt= "Git-License" src="https://img.shields.io/badge/license-GNU General Public License v3.0-green">
 
@@ -41,7 +41,7 @@ N/A
 
 ## Questions
 
-For any questions please email me at adrianaquin22@gmail.com 
+For any questions please email me at landon.swdeveloper@gmail.com
 
 ## Links 
 
